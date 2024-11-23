@@ -29,20 +29,20 @@ This project requires the following Python packages:
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
+```bash
    git clone https://github.com/Elen-tesfai/cintel-05-cintel.git
    cd cintel-05-cintel
    ```
 2. **Create and activate a virtual environment (optional but recommended)**:
-   ```bash
+```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 3. **Install the required packages**:
-   ```bash
+```bash
    pip install -r requirements.txt
    ```
 4. **Run the application**:
-   ```bash
+```bash
    python dashboard/app.py
    ```
