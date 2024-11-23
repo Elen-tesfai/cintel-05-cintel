@@ -1,7 +1,9 @@
+faicons
+palmerpenguins
+pandas
+pyarrow
+plotly
+seaborn
 shiny
 shinylive
-faicons
-pandas
-plotly
 shinywidgets
-scipy
